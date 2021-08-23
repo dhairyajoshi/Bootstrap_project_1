@@ -1,0 +1,28 @@
+.headings{
+    display: flex;
+
+}
+
+.headings hr{
+    width: 2px;
+    width: 50vw;
+    padding: 2px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.custcard:first-child{
+    background: linear-gradient(90deg, #daae51 0%, #d53369 100%);
+}
+.custcard:nth-child(2){
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+.custcard:nth-child(3){
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
